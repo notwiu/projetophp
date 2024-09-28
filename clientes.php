@@ -18,7 +18,7 @@
                 <div class="custom-card text-center">
                     <h2 class="txt1">Clientes da DunkMaster</h2>
                     <p class="textoPClientes">Na DunkMaster, nossa missão é oferecer a melhor experiência possível para
-                        todos os amantes do basquete. Atendemos jogadores, treinadores e entusiastas, proporcionando
+                        todos os amantes do basquete. Atendemos jogadores, treinadores, proporcionando
                         produtos de alta qualidade, desde bolas até acessórios e uniformes.
                         Acreditamos que cada cliente é importante e estamos comprometidos em atender suas necessidades.
                         Nosso time está sempre disponível para oferecer suporte, dicas e sugestões.</p>

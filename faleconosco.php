@@ -36,7 +36,6 @@
                     <p class="textoPClientes">Envie uma mensagem pelo WhatsApp: (83) 94002-8922</p>
 
                     <a href="#" class="tag-link">WhatsApp</a>
-                    <a href="#" class="tag-link">TikTok</a>
                     <a href="#" class="tag-link">Instagram</a>
                     <a href="#" class="tag-link">Linkedin</a>
 
